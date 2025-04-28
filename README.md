@@ -3,7 +3,38 @@
 # Date: 
 # Register no.:
 # Aim: To perform the Exploration of Prompting Techniques for Video Generation
-# Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
+# Algorithm: Understand AI Video Generation Tools:
+Get familiar with AI tools like Runway Gen-2, Pika Labs, Synthesia, etc., that can generate videos from text prompts.
+
+Create Basic Prompts:
+Start with simple, one-line prompts for video generation to observe the output style and clarity.
+
+Design Detailed Prompts:
+Enhance the prompts by adding specific elements like background, characters, action, style (e.g., anime, realistic, cinematic).
+
+Generate and Compare Videos:
+Input both simple and detailed prompts into the AI tool and generate video outputs.
+
+Analyze the Outputs:
+Compare how the quality, coherence, and creativity of the video changes based on prompt complexity.
+
+Experiment with Various Prompting Techniques:
+
+Simple vs. Elaborate Prompts
+
+Role-based Prompts (e.g., "As a cinematographer, create...")
+
+Perspective Prompts (e.g., "Show the scene from a bird’s-eye view.")
+
+Comparative Prompts (e.g., "Create a rainy vs. sunny landscape.")
+
+Sequential Story Prompts (multi-scene storytelling)
+
+Document Observations:
+Record the prompt given, the AI output description, and your insights.
+
+Procedure:
+---
 Familiarize Yourself with Video Generation Models:
 Begin by exploring AI tools capable of video generation from text prompts. Popular models for video generation include:
 Runway Gen-2
