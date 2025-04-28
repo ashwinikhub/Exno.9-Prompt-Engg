@@ -73,5 +73,3 @@ Save different versions of the videos and compare the results to understand how 
 
 
 
-# Result:
-
