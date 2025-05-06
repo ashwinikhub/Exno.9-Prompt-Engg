@@ -1,9 +1,11 @@
 # Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
-# Date: 28/04/2025
-# Register no.: 212223060203
-# Aim: To perform the Exploration of Prompting Techniques for Video Generation
-# Algorithm: Understand AI Video Generation Tools:
+# Date: 
+# Register no.: 212222090003
+# Aim: 
+To perform the Exploration of Prompting Techniques for Video Generation
+# Algorithm: 
+Understand AI Video Generation Tools:
 Get familiar with AI tools like Runway Gen-2, Pika Labs, Synthesia, etc., that can generate videos from text prompts.
 
 Create Basic Prompts:
@@ -63,7 +65,8 @@ Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
 
 
-# Result: The Prompt of the above task executed successfully
+# Result: 
+The Prompt of the above task executed successfully
 
 
 
